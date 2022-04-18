@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/luciotravassos/luciotravassos/blob/main/thumbnail3.png" width="900" height="200"/>
+  <img src="https://github.com/luciotravassos/luciotravassos/blob/main/thumbnail3.png" width="600" height="200"/>
 </div>
+![Snake animation](https://github.com/luciotravassos/luciotravassos/blob/output/github-contribution-grid-snake.svg)
 
 
 <div id="badges">
