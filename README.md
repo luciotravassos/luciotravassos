@@ -12,20 +12,14 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=luciotravassos&style=flat-square&color=blue" alt=""/>
 Sou DBA especializado em alta performance, alta disponibilidade e escalabilidade  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> do Brasil.
 - :telescope: Trabalho como Engenheiro DBA SQL e NOSql.
 
 - :seedling: Me especializei em peformance, disponibilidade e escalabilidade.
 
 - :zap: No meu tempo livre, costumo ler, ver filmes, ficar com a familia e estudar principalmente montando Labs em Cloud.
-<img src="https://komarev.com/ghpvc/?username=luciotravassos&style=flat-square&color=blue" alt=""/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciotravassos&layout=compact&theme=vision-friendly-dark)]
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luciotravassos&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luciotravassos&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="Amazon" alt="Amazon" width="40" height="40"/>&nbsp;
