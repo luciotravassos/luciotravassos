@@ -14,8 +14,11 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=luciotravassos&style=flat-square&color=blue" alt=""/>
 Sou DBA especializado em alta performance, alta disponibilidade e escalabilidade  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 - :telescope: Trabalho como Engenheiro DBA SQL e NOSql.
+ 
 - :seedling: Me especializei em peformance, disponibilidade e escalabilidade.
+ 
 - :zap: No meu tempo livre, costumo ler, ver filmes, ficar com a familia e estudar principalmente montando Labs em Cloud.
 
 <div>
