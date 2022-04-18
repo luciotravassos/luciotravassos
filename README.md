@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/luciotravassos/luciotravassos/blob/main/thumbnail3.png" width="1800" height="200"/>
+</div>
+
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/lucio-j-9a187815b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
