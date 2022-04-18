@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/luciotravassos/luciotravassos/blob/main/thumbnail3.png" width="1800" height="200"/>
+  <img src="https://github.com/luciotravassos/luciotravassos/blob/main/thumbnail3.png" width="900" height="200"/>
 </div>
 
 
@@ -11,7 +11,16 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+
+Sou DBA especializado em alta performance, alta disponibilidade e escalabilidade  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> do Brasil.
+- :telescope: Trabalho como Engenheiro DBA SQL e NOSql.
+
+- :seedling: Me especializei em peformance, disponibilidade e escalabilidade.
+
+- :zap: No meu tempo livre, costumo ler, ver filmes, ficar com a familia e estudar principalmente montando Labs em Cloud.
 <img src="https://komarev.com/ghpvc/?username=luciotravassos&style=flat-square&color=blue" alt=""/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciotravassos&layout=compact&theme=vision-friendly-dark)]
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luciotravassos&theme=dark&background=000000)](https://git.io/streak-stats)
 
