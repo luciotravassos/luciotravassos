@@ -13,6 +13,9 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=luciotravassos&style=flat-square&color=blue" alt=""/>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luciotravassos&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="Amazon" alt="Amazon" width="40" height="40"/>&nbsp;
