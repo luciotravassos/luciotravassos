@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/luciotravassos/luciotravassos/blob/main/thumbnail3.png" width="600" height="200"/>
 </div>
-![Snake animation](https://github.com/luciotravassos/luciotravassos/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <div id="badges">
@@ -24,7 +24,6 @@ Sou DBA especializado em alta performance, alta disponibilidade e escalabilidade
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciotravassos&layout=compact&theme=vision-friendly-dark)]
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luciotravassos&theme=dark&background=000000)](https://git.io/streak-stats)
-
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
